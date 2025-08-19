@@ -46,6 +46,3 @@ This project performs a **General Exploratory Data Analysis** on a dataset to un
 - Profit margins vary significantly by product category  
 - Outliers in sales/profit highlight unusual transactions  
 
----
-
-## 📁 Project Structure
